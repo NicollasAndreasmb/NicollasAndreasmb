@@ -105,7 +105,7 @@ A real-world software project focused on managing clinic workflows, users, thera
 
 ---
 
-### 🤝 F.I.R.M.A.
+### 🤝 BARGANHA
 
 **A data-driven purchasing platform for small and medium-sized food-service businesses.**
 
